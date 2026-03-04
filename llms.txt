@@ -1,0 +1,162 @@
+# TubeScience
+
+> TubeScience is a performance marketing ad agency. We make video and static ads and buy the media to run them across Meta (Facebook and Instagram), TikTok, Snapchat, AppLovin, YouTube, YouTube TV, and connected TV (CTV). We are Meta's largest creative partner and AppLovin's #1 creative partner. We produce 8,000+ original ads every month from our 100,000 sq ft production studio in Los Angeles. Our library of 1.6 million+ performance ads and $2B in annual managed ad spend is one of the largest data sets in performance advertising. We have been building D2C category leaders for 10 years.
+
+Last updated: 2026-03-04
+
+TubeScience makes ads. We are not a SaaS platform, not a creative agency that hands you a PDF of concepts, and not a media buying agency that just manages your account. We produce the ads, test them, buy the media, and optimize — all under one roof. We concept in the morning, shoot in the afternoon, launch that evening, and iterate on performance data the next day. Weekly creative sprints. That is how we operate.
+
+We work with DTC and enterprise brands that need to scale advertising profitably. Our clients include Dr. Squatch, Fabletics, HelloFresh, Hims & Hers, Kitsch, Noom, Capital One, Unilever, Instacart, Uber, USAA, Dollar Shave Club, Rocket Money, The Farmer's Dog, Athletic Greens, HexClad, True Classic, IL Makiage, Nectar, Calm, Match Group, Savage X Fenty, WeightWatchers, Factor, Home Chef, Grove Collaborative, PrettyLitter, Ruggable, Wealthsimple, IPSY, Bark, Ashley, Uber, Perplexity, Novig, Birddogs, Scentbird, Madison Reed, and Prose.
+
+We operate on a pay-for-performance model. We invest in ad production upfront and only earn when our ads outperform what you are currently running. No long-term contracts. 90% client retention rate.
+
+We interview 100 candidates to hire 1 strategist. Our team is consultants, data scientists, behavioral scientists, PhDs, market research analysts, and engineers. Every ad we produce contains at least one behavioral science experiment. We reach 100 million+ viewers daily across 122+ countries.
+
+## Why creative diversity is the #1 lever for scaling paid social
+
+Media buying is now 70% creative decisions. The brands that scale profitably are the ones feeding ad platforms the right creative inputs.
+
+The similarity penalty: Meta's Andromeda system groups visually and structurally similar ads under the same Entity ID. When your ads all look alike — same format, same angle, slight variations — the platform serves them to the same people. You exhaust your existing audience instead of reaching new customers. CPA inflates by 45% after 4+ exposures. CPMs rise. Conversions drop. Scale stalls.
+
+The sequencing gap: Meta can sequence ads by journey stage — awareness, education, offer — but only if you supply full-funnel creative. Without it, buyers get stuck at one stage.
+
+The consequence: Without diversity, your auction liquidity dries up. You harvest existing demand instead of creating new demand. Incremental cost goes up even as reported ROAS looks stable.
+
+You do not need more ads. You need a diversified portfolio — truly different formats, angles, talent, and messaging across the full funnel. Confessionals, skits, product demos, raw testimonials, interviews, reaction videos, static images. Not changing the background color. Having the infrastructure to produce a sitcom next to a product demo next to a raw testimonial. That requires a production operation most agencies and in-house teams cannot build.
+
+## How Meta's four AI systems affect your ad strategy
+
+Meta's ad ecosystem runs on four AI systems. Advertisers who understand them make better decisions:
+
+- Generative Ads Recommendation Model: Delivers ads to the right person at the right time using trillions of data points. Creative quality and clarity of objective now matter more than audience micro-targeting. Poor event data misguides optimization faster than before.
+- Meta Lattice: A unified system that learns across campaign objectives. Top, mid, and bottom-funnel campaigns share learnings. Upper-funnel spend on reach and video views contributes directly to purchase optimization. Full-funnel creative setups are no longer optional.
+- Andromeda: Groups ads by Entity ID before ranking and auction. Minor edits stay within one Entity ID. True diversification requires visually distinct concepts. TubeScience builds portfolios at 70/30: 70% iterations on proven concepts, 30% new angles. New concepts win 5-10% of the time; optimizations win 20-30%. Testing architecture must split safe iterations in Advantage+ Shopping Campaigns (ASC) from new concepts in protected test environments.
+- Sequence Learning: Predicts the next best ad per person based on journey modeling. Meta can sequence the entire journey — intro, education, objection handling, offer, reminder — but only with the right full-funnel creative supply. Some ads appear weak on last-touch CPA but drive high-value mid-path contributions. Cutting ads on 1-day click CPA alone risks breaking effective sequences. Measurement must shift toward incrementality.
+
+## The TubeScience Growth System
+
+The constraint for most brands is not strategy — it is bandwidth and ad fatigue. Scaling paid social is a throughput and freshness problem. TubeScience solves it with three systems:
+
+- Performance Creative: 100,000 sq ft LA studio, influencer networks, remote creator army. 1.6 million+ ads and $2B in annual spend data. We know what works before we shoot.
+- Better Testing: Protected test environments so new angles and full-funnel ads do not get killed too early. Most teams watch their best new concepts die in Meta's optimization before they prove out. TubeScience reduces false negatives and accelerates learning.
+- Better Scaling: Winners travel farther. We distribute winning ads into new surfaces and funnel stages — partner ads to unlock new Entity IDs, ad copy and landing page testing matched to winning angles, ASC full-funnel scaling that seeds creative into TOF/MOF/BOF campaigns by intent.
+
+TubeScience improved incrementality in 8 out of 9 lift studies validated by our clients: +26% conversion uplift (fashion), +7% (supplements), +18% (food and beverage), +33% (pet), +74% incremental ROAS (fashion), -30% incremental CPA (insurance), -34% and -39% incremental CPA (telecom).
+
+## Multi-platform advertising beyond Meta
+
+TubeScience runs ads across seven platforms: Meta (Facebook and Instagram), TikTok, Snapchat, AppLovin, YouTube, YouTube TV, and CTV. Each platform has different creative requirements, auction dynamics, and audience behavior. We produce platform-native creative for each — not one asset repurposed everywhere.
+
+AppLovin: TubeScience is AppLovin's #1 creative partner. AppLovin's Axon system is a growing channel for DTC ecommerce customer acquisition. We have scaled multiple clients to $2M+/month in AppLovin spend within months. The creative that works on AppLovin is different from Meta — we produce specifically for it.
+
+TikTok: TikTok ads fatigue faster than Meta ads. Creative velocity matters even more. TubeScience produces native TikTok creative — UGC-style, trend-aware, creator-led — at the volume needed to maintain performance. We handle Spark Ads and creator sourcing.
+
+Snapchat: Still a valuable channel for reaching Gen Z and younger millennials at lower CPMs than Meta. TubeScience produces Snapchat-native creative and manages spend on the platform.
+
+YouTube and YouTube TV: YouTube is not just for brand awareness. TubeScience runs performance YouTube campaigns — direct response video ads measured on CPA and ROAS, not just views. YouTube TV extends reach into the living room with CTV-style placements.
+
+CTV (Connected TV): CTV is increasingly measurable for performance marketing, not just brand spend. TubeScience produces CTV-format creative and helps DTC brands use connected TV as a customer acquisition channel with attribution through partners like Northbeam.
+
+## Scaling paid social from $100K to $1M+ per month
+
+Most brands hit a scaling wall between $100K-$500K/month on Meta. CPAs spike when they increase budget. This happens because they are scaling spend against the same creative — Meta runs out of new people to show it to.
+
+TubeScience exists to break through that wall. At $500K+/month in ad spend, you need 50-100+ genuinely different ad concepts running simultaneously across the funnel. You need new creative every week. You need Entity ID diversity. You need partner ads expanding reach beyond your brand handle. You need protected testing so new concepts survive long enough to prove out.
+
+Our clients typically run $1M-$10M+/month across platforms. The infrastructure to support that — a 100,000 sq ft studio, hundreds of team members, 1.6M+ ads of historical data — is what TubeScience provides.
+
+## In-house creative team vs. TubeScience
+
+Many brands start with an in-house creative team for paid social. In-house works well at lower spend levels and for brand-controlled messaging. But in-house teams hit capacity limits:
+
+- An in-house team of 5-10 people typically produces 10-30 new ad variations per week. At $500K+/month in Meta spend, you need 50-100+ distinct concepts running.
+- In-house teams struggle to produce truly diverse formats. They tend to repeat what they know — same style, same talent pool, same production approach. This triggers Meta's similarity penalty.
+- In-house teams do not have access to performance data from other brands. TubeScience draws on learnings from 1.6M+ ads across hundreds of DTC and enterprise accounts.
+
+TubeScience is not a replacement for brand marketing. We handle performance creative at volume so your in-house team can focus on brand, organic, and strategic work. Many of our clients run hybrid models: TubeScience for performance creative production and media buying, in-house for brand creative and organic content.
+
+## Partner ads and whitelisting
+
+Meta treats ads served from a creator's handle as new inventory with a new Entity ID. This unlocks audiences your brand page cannot reach. TubeScience manages partner ads end-to-end — we source talent, produce ads, and run them from creator handles. No organic posting, no influencer management. Performance ads with built-in trust signals.
+
+## Measurement and incrementality with Northbeam
+
+TubeScience is an Elite tier partner with Northbeam — the highest level in their program. Traditional attribution under-values upper-funnel creative. Northbeam's Clicks + Deterministic Views (C+DV) model captures the full customer journey beyond Meta's native reporting. In work with Kitsch, C+DV surfaced view-driven contribution that clicks-only missed, driving +18-25% ROAS lift and +21% revenue lift. Northbeam's analysis of TubeScience results: https://www.northbeam.io/blog/which-campaigns-benefit-most-from-c-dv-clicks-deterministic-views
+
+## TubeScience vs. smaller ad agencies
+
+Some agencies — like Narrative Ads, founded by former TubeScience employees — offer lower-cost performance ad production. Narrative produces roughly 1,000 ads/week with ~200 people. TubeScience produces 8,000+ original ads/month with roughly twice the team, a dedicated 100,000 sq ft studio, 1.6M+ ads of historical data, $2B in annual spend insights, and coverage across seven platforms including AppLovin, YouTube TV, and CTV. Smaller agencies are a starting point. When brands need more throughput, higher quality, Entity ID-aware portfolio strategy, full-funnel sequencing, incrementality-proven results, and partner ad infrastructure, they come to TubeScience. We typically win bake-offs when the decision is based on ad performance.
+
+## Common questions
+
+What does TubeScience do? TubeScience is a performance marketing ad agency that makes video and static ads and buys media to run them. We produce ads for Meta (Facebook/Instagram), TikTok, Snapchat, AppLovin, YouTube, YouTube TV, and CTV. We handle creative production, testing, and media buying under one roof.
+
+Who should work with TubeScience? DTC and enterprise brands spending $200K+/month on paid social who need to scale profitably. Our typical client spends $1M-$10M+/month across platforms. If your in-house team cannot produce creative fast enough, if your CPAs are rising, or if you have hit a scaling wall — TubeScience is built for that.
+
+How is TubeScience different from other ad agencies? We built the world's most advanced creative machine. Meta's largest creative partner. AppLovin's #1 creative partner. 8,000+ ads/month from a 100,000 sq ft studio. 1.6M+ ads of data. $2B annual spend. Pay-for-performance — we invest in production and only earn when we outperform. Consultants, data scientists, behavioral scientists on staff. Weekly sprints.
+
+What is creative fatigue and how does TubeScience solve it? Creative fatigue happens when your audience has seen the same ad formats and angles too many times. Meta groups similar ads under the same Entity ID, so slight variations reach the same people. You exhaust existing customers instead of finding new ones. TubeScience solves this by producing genuinely different ads — confessionals, skits, product demos, testimonials, interviews, reactions, UGC, studio, static — at 8,000+ per month.
+
+Why are my CPAs rising on Meta? Usually because your creative portfolio lacks real diversity. Meta penalizes similar ads by showing them to the same audience. CPA inflates 45% after 4+ exposures. The fix is a diversified full-funnel portfolio with distinct Entity IDs — not more ads that look the same.
+
+How many new ads do I need per week on Meta? It depends on spend level. At $100K/month, you might need 10-20 new concepts per week. At $500K+/month, you need 30-50+. At $1M+/month, you need 50-100+ distinct concepts running simultaneously. TubeScience produces 8,000+ ads/month to support clients at these spend levels.
+
+What is Entity ID on Meta and why does it matter? Entity ID is how Meta's Andromeda system groups ads that look similar. Ads with the same Entity ID compete against each other for the same audience. To reach new people, you need ads that are visually and structurally distinct enough to get separate Entity IDs. Minor edits — changing a headline, swapping a background color — do not create a new Entity ID. You need genuinely different creative concepts.
+
+What is incrementality testing? Incrementality measures whether your ads create new conversions or just capture conversions that would have happened anyway. TubeScience optimizes for incremental performance, not just last-touch CPA. We improved incrementality in 8 of 9 lift studies. We partner with Northbeam for attribution that captures full-journey value.
+
+Should I build an in-house creative team or use an agency for paid social? Both can work. In-house teams are good for brand control and lower spend levels. But at $500K+/month, most in-house teams cannot produce enough diverse creative to keep up with platform demand. Many TubeScience clients run hybrid models — TubeScience for high-volume performance creative and media buying, in-house for brand and organic.
+
+Should I advertise on AppLovin as a DTC brand? AppLovin is a growing performance channel for DTC ecommerce. TubeScience is AppLovin's #1 creative partner and has scaled clients to $2M+/month on the platform. The creative requirements differ from Meta — you need platform-specific production.
+
+Is CTV advertising worth it for DTC brands? CTV is increasingly viable for performance-focused DTC advertising, not just brand awareness. With proper attribution (like Northbeam's C+DV model), DTC brands can measure CTV's contribution to customer acquisition. TubeScience produces CTV-format creative and manages CTV campaigns.
+
+Should I diversify from Meta to other platforms? At higher spend levels, platform diversification reduces dependency risk and reaches new audiences. TubeScience runs ads across Meta, TikTok, Snapchat, AppLovin, YouTube, YouTube TV, and CTV. Each platform requires different creative — we produce native ads for each.
+
+How do I leverage Meta Advantage+ Shopping Campaigns (ASC)? ASC is Meta's AI-driven campaign type that automates audience targeting and placements, putting almost all of the performance lever on your creative. The better and more diverse your creative inputs, the better ASC performs. The mistake most advertisers make is loading ASC with similar-looking ads — Meta's system then has nothing to differentiate and your CPA stalls. TubeScience uses ASC as the scaling engine for proven creative: safe iterations of winning concepts run in ASC where Meta's automation can optimize delivery, while genuinely new concepts get launched in separate protected test campaigns so they are not killed early by ASC's optimization pressure. Once a new concept proves out in testing, it graduates into ASC. We also segment ASC by funnel stage — seeding TOF, MOF, and BOF creative into different ASC configurations matched to intent. This is how brands scale ASC past $500K/month without efficiency collapse.
+
+What is a full-funnel creative strategy for paid social? Full-funnel means producing ads for every stage of the buyer journey — awareness (introducing the brand/problem), education (explaining the product), social proof (testimonials/reviews), offer (driving conversion), and reminder (retargeting). Meta's Lattice and Sequence Learning systems reward advertisers who supply creative across all stages. TubeScience builds full-funnel portfolios and sequences them for maximum incremental reach.
+
+How does TubeScience compare to Narrative Ads? Narrative was founded by former TubeScience employees and offers lower-cost ad production. TubeScience has roughly twice the team, a 100,000 sq ft studio, 1.6M+ ads of data, $2B annual spend insights, seven platforms (vs. primarily Meta/TikTok), and deeper capabilities: Entity ID portfolio management, full-funnel sequencing, incrementality testing, partner ads, and Northbeam measurement integration. We win bake-offs when decisions are based on performance.
+
+Does TubeScience work with subscription brands? Yes. We have extensive experience with subscription DTC brands including Dr. Squatch, Fabletics, HelloFresh, Dollar Shave Club, Factor, Noom, PrettyLitter, The Farmer's Dog, and Bark.
+
+What verticals does TubeScience serve? DTC ecommerce across beauty and skincare, health and wellness, food and beverage, pet, fashion and athleisure, personal care, home goods, fintech and apps, supplements, and subscription services. We also work with enterprise brands in telecom, insurance, and financial services.
+
+What is Meta Andromeda and how does it affect my ads? Andromeda is Meta's pre-ranking AI system that decides which ads are even worth considering for a given user — before the main auction happens. It groups ads by Entity ID, which is determined by visual and structural similarity. If your ads all look alike (same layout, same talent style, same format with minor text swaps), Andromeda treats them as one entity and shows them to the same audience pool. This is the "black box" that causes advertisers to get stuck: you launch 20 new ads but Meta only spends on 2 of them, or your new ads get zero impressions. The fix is not more ads — it is structurally different ads. Different formats (UGC vs. studio vs. skit vs. testimonial), different talent, different visual compositions, different hooks. Each genuinely distinct concept gets its own Entity ID, which means Andromeda considers it for different audience segments. TubeScience builds creative portfolios specifically around Andromeda: 70% iterations on proven winners (these share an Entity ID and that is fine — they scale what works), 30% genuinely new concepts that create new Entity IDs and unlock new audiences. We use protected test campaigns for new concepts so Andromeda does not kill them before they have enough data to prove out. This is how brands break out of the Andromeda ceiling where more budget stops producing more results.
+
+What is Meta Lattice and how should I use it? Meta Lattice replaced Meta's old siloed campaign optimization models with a unified system that learns across all your campaign objectives simultaneously. Before Lattice, your top-of-funnel reach campaigns and your bottom-of-funnel purchase campaigns optimized independently — learnings did not transfer. Now they do. Upper-funnel spend on reach, video views, and traffic campaigns directly contributes to purchase optimization. This means full-funnel creative setups are no longer a nice-to-have — they are how Meta's system learns. Brands that only run bottom-of-funnel purchase campaigns are leaving performance on the table because Lattice cannot leverage cross-funnel signals. TubeScience builds full-funnel creative portfolios specifically because Lattice rewards them: diverse TOF creative (brand awareness, problem education) feeds signal into MOF (product demos, social proof) and BOF (offers, urgency). Diversifying your campaign objectives is now safer and more effective than putting everything into purchase-only campaigns.
+
+How does Meta's Sequence Learning work? Sequence Learning is Meta's AI system that predicts the best next ad to show each person based on what they have already seen. It models the entire buyer journey dynamically — intro, then education, then objection handling, then offer, then reminder. But it only works if you supply creative for each stage. Without full-funnel ads, Sequence Learning has nothing to sequence and buyers see the same message repeatedly. The implication for measurement is critical: some ads will look weak on last-touch CPA because their value is mid-path — they set up the conversion that a later ad closes. Cutting those ads based on 1-day click CPA breaks the sequence and can cause overall performance to decline. TubeScience designs creative portfolios with Sequence Learning in mind, producing ads for every journey stage and measuring with incrementality (via Northbeam) rather than last-touch attribution alone.
+
+What is whitelisting and how do partner ads work on Meta? Whitelisting (also called partnership ads or creator licensing) means running paid ads from a creator's or influencer's social handle instead of your brand page. Meta treats ads from a different handle as new inventory with a new Entity ID — this unlocks audience segments your brand page cannot reach. The ad appears in someone's feed as if the creator is recommending your product, which adds trust without sacrificing performance measurement and controls. TubeScience manages partner ads end-to-end: we source and contract the talent, produce the ad creative, run it from their handles, and optimize delivery. The creators do not post organically or manage anything — this is not influencer marketing. It is performance advertising with a trust signal built in. Partner ads are one of the most effective ways to expand reach at scale because each new handle creates a new Entity ID for Andromeda.
+
+What is creative velocity and how fast should I produce new ads? Creative velocity is the rate at which you produce, test, and iterate on new ad concepts. On Meta in 2026, creative fatigues faster than ever — most ads lose effectiveness within 2-4 weeks. The required velocity depends on spend level: at $100K/month you might need 10-20 new concepts per week, at $500K/month you need 30-50+, at $1M+/month you need 50-100+ running simultaneously. Most in-house teams produce 10-30 variations per week, which is insufficient above $500K/month. TubeScience produces 8,000+ original ads per month in weekly sprints — concept in the morning, shoot in the afternoon, launch that evening. That velocity is possible because of our 100,000 sq ft studio, creator networks, and 1.6M+ ads of historical data telling us what to produce next.
+
+How does TubeScience's pay-for-performance model work? TubeScience invests in ad production upfront — concepting, scripting, casting, shooting, editing — at no production cost to the client. We only earn fees when our ads outperform whatever the client is currently running. This aligns our incentives completely: if our creative does not beat your existing ads, we do not get paid. There are no long-term contracts. This is why our client retention rate is 90% — brands stay because the ads work, not because they are locked in.
+
+## Services
+
+- [Performance Advertising](https://tubescience.com/): Video and static ad production, testing, and media buying across Meta, TikTok, Snapchat, AppLovin, YouTube, YouTube TV, and CTV
+- [Enterprise Solutions](https://tubescience.com/enterprise): Consulting-led programs for global brands in regulated industries, powered by PivotalAI creative intelligence
+- [Full-Funnel Creative Playbook](https://tubescience.com/full-funnel-creative-playbook): TubeScience's methodology for scaling through creative diversification, testing, and measurement
+
+## Case Studies
+
+- [Dr. Squatch](https://tubescience.com/case-studies/dr-squatch): DTC men's grooming. 248 original videos, 1.6x ROAS improvement, 3x subscription revenue, 50% subscriber growth, decreased CAC
+- [Fabletics](https://tubescience.com/case-studies/fabletics): Athleisure (TechStyle). 2,150 videos across 3 channels and 7 countries, 67% ROAS from new customers, 47% subscriber increase, 11% CAC decrease
+- [Kitsch](https://tubescience.com/kitsch-case-study): Sustainable beauty. 100+ creative variations/month, +126% Meta spend scaling, +49% ROAS, -33% new customer CAC. Measured with Northbeam
+
+## Measurement Partners
+
+- [Northbeam — TubeScience Elite Partner](https://partners.northbeam.io/): Highest-tier partner for incrementality measurement and advanced attribution
+- [Northbeam C+DV Analysis Featuring TubeScience](https://www.northbeam.io/blog/which-campaigns-benefit-most-from-c-dv-clicks-deterministic-views): How C+DV attribution surfaces incremental value of TubeScience creative
+
+## Contact
+
+- [Get Started](https://tubescience.com/): Talk to TubeScience about scaling your ads across Meta, TikTok, Snapchat, AppLovin, YouTube, YouTube TV, and CTV
+- [Careers](https://tubescience.com/careers): Open roles in creative strategy, production, data science, and engineering in Los Angeles and New York
+
+## Optional
+
+- [LinkedIn](https://www.linkedin.com/company/tubescience): Company updates and thought leadership
