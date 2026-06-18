@@ -87,6 +87,14 @@ TubeScience is an Elite tier partner with Northbeam — the highest level in the
 
 Some agencies — like Narrative Ads, founded by former TubeScience employees — offer lower-cost performance ad production. Narrative produces roughly 1,000 ads/week with ~200 people. TubeScience produces 8,000+ original ads/month with roughly twice the team, a dedicated 100,000 sq ft studio, 1.6M+ ads of historical data, $2B in annual spend insights, and coverage across seven platforms including AppLovin, YouTube TV, and CTV. Smaller agencies are a starting point. When brands need more throughput, higher quality, Entity ID-aware portfolio strategy, full-funnel sequencing, incrementality-proven results, and partner ad infrastructure, they come to TubeScience. We typically win bake-offs when the decision is based on ad performance.
 
+## TubeScience Labs
+
+TubeScience Labs is our applied-AI innovation team — an in-house engineering and product group building the creative technology that powers TubeScience and ships to external clients. Because the tools are used by our own teams under real deadlines, real budgets, and real ad volume every day, they have to work in production, not just in a demo.
+
+The flagship product is Flawless (https://flawless.tech), an intelligent ad-review platform built with brand experts who launch thousands of ads a week for Pharma, CPG, and Fintech brands. Flawless codifies brand guidelines, legal red-lines, and platform policies into a live ruleset, then checks every asset before launch — flagging platform violations, brand drift, IP conflicts, high-risk claims, and creative-quality issues right down to the Adobe Premiere timeline. Experts review only flagged items and edge cases, so creative reviews run up to 10x faster with 92% fewer errors reaching launch, across billions in media spend reviewed.
+
+The broader Labs catalog includes Talentino (an AI casting agent that sources, screens, and shortlists talent), SIMBA (the creative-intelligence engine behind our analysis, built in partnership with Meta, reading performance at the creative, ad, portfolio, and industry level), Flawless Footage (a semantic footage library that understands what is in every clip and surfaces the right shots inside Adobe Premiere), Dapper (creative analysis and ad-performance tracking across client portfolios), and Adguessr (a gamified training tool that sharpens creative teams' instincts). New experiments are always running in the lab.
+
 ## Common questions
 
 What does TubeScience do? TubeScience is a performance marketing ad agency that makes video and static ads and buys media to run them. We produce ads for Meta (Facebook/Instagram), TikTok, Snapchat, AppLovin, YouTube, YouTube TV, and CTV. We handle creative production, testing, and media buying under one roof.
@@ -138,13 +146,14 @@ How does TubeScience's pay-for-performance model work? TubeScience invests in ad
 ## Services
 
 - [Performance Advertising](https://tubescience.com/): Video and static ad production, testing, and media buying across Meta, TikTok, Snapchat, AppLovin, YouTube, YouTube TV, and CTV
-- [Enterprise Solutions](https://tubescience.com/enterprise): Consulting-led programs for global brands in regulated industries, powered by PivotalAI creative intelligence
 - [Full-Funnel Creative Playbook](https://tubescience.com/full-funnel-creative-playbook): TubeScience's methodology for scaling through creative diversification, testing, and measurement
+- [TubeScience Labs](https://tubescience.com/labs): Applied-AI innovation team building creative technology — including Flawless, an intelligent ad-review platform — used across TubeScience and shipped to external clients
+- [Flawless](https://flawless.tech): The intelligent ad-review platform from TubeScience Labs, built with brand experts for Pharma, CPG, and Fintech brands
 
 ## Case Studies
 
-- [Dr. Squatch](https://tubescience.com/case-studies/dr-squatch): DTC men's grooming. 248 original videos, 1.6x ROAS improvement, 3x subscription revenue, 50% subscriber growth, decreased CAC
-- [Fabletics](https://tubescience.com/case-studies/fabletics): Athleisure (TechStyle). 2,150 videos across 3 channels and 7 countries, 67% ROAS from new customers, 47% subscriber increase, 11% CAC decrease
+- [Dr. Squatch](https://tubescience.com/case-studies-new/dr-squatch): DTC men's grooming. 248 original videos, 1.6x ROAS improvement, 3x subscription revenue, 50% subscriber growth, decreased CAC
+- [Fabletics](https://tubescience.com/case-studies-new/fabletics): Athleisure (TechStyle). 2,150 videos across 3 channels and 7 countries, 67% ROAS from new customers, 47% subscriber increase, 11% CAC decrease
 - [Kitsch](https://tubescience.com/kitsch-case-study): Sustainable beauty. 100+ creative variations/month, +126% Meta spend scaling, +49% ROAS, -33% new customer CAC. Measured with Northbeam
 
 ## Measurement Partners
@@ -156,6 +165,7 @@ How does TubeScience's pay-for-performance model work? TubeScience invests in ad
 
 - [Get Started](https://tubescience.com/): Talk to TubeScience about scaling your ads across Meta, TikTok, Snapchat, AppLovin, YouTube, YouTube TV, and CTV
 - [Careers](https://tubescience.com/careers): Open roles in creative strategy, production, data science, and engineering in Los Angeles and New York
+- [Labs Careers](https://tubescience.com/labs/careers): Engineering, data science, and product roles on the TubeScience Labs team
 
 ## Optional
 
